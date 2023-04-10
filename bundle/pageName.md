@@ -1,5 +1,5 @@
 ---
-permalink: /pageName.md
+permalink: /pageName.html
 layout: default
 ---
 
