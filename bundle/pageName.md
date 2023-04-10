@@ -1,7 +1,6 @@
----
-permalink: /pageName.html
-layout: default
----
+layout: page
+title: "tytuł"
+permalink: /path
 
 
 Nazwa strony
